@@ -87,11 +87,11 @@ Kolom :
 
 ## **Key Findings**
 - Jumlah nasabah yang beralih ada 2037 orang dari 10.000 orang. Rasio churn = 20,37%
-- Rata - rata usia yang beralih yaitu 45 Tahun masuk dalam kategori Senior dengan Rasio Churn mencapai 44,62%. Hasil analisis juga menunjukkan bahwa Nasabah dalam kategori senior memiliki rata - rata saldo paling besar dibandingkan grup usia lainnya yaitu mencapai 80.2k.
+- Rata-rata usia nasabah yang churn adalah 45 tahun — usia ini tepat berada di ambang kategori Senior (45-92 tahun), yang memang mencatat churn rate tertinggi (44.62%) di antara semua age group.
 - Dalam kategori negara, Jerman dengan rasio 32,44% memiliki Churn rate paling tinggi dibandingkan dengan Prancis (16,15%) dan Spanyol (16,67%). Selain itu Jerman juga menunjukkan rata - rata saldo yang jauh lebih besar (119.730) dari kedua negara lainnya
 - Pada status keanggotaan menujukkan bahwa anggota yang tidak aktif jauh lebih rentan untuk beralih (26,85%) sedangkan anggota yang aktif berkisar (14,27%). Lalu apda kategori saldo, tingkat Churn lebih besar pada nasabah yang memiliki saldo (24,08%). 
 - Jumlah produk paling ideal yaitu 2 dengan rasio (7,58%), karena churn rate jauh lebih rendah dibandingkan kategori jumlah produk lainnya. meskipun begitu kategori jumlah rasio 3 dan 4 memerlukan data tambahan karena total nasabahnya relatif kecil (266 dan 60)
-- Jika dilihat dari komposisi gender, churn rate terjadi lebih tinggi pada perempuan, di Jerman angka rasio churn mencapai 37.55% untuk perempuan sedangkan laki - laki yaitu 27,81%
+- Jika dilihat dari komposisi gender, churn rate terjadi lebih tinggi pada perempuan, di Jerman angka rasio churn mencapai 37,55% untuk perempuan sedangkan laki - laki yaitu 27,81%
 
 
 ## **Rekomendasi**
@@ -106,5 +106,6 @@ Kolom :
 ## **Dashboard**
 
 <img width="1652" height="914" alt="image" src="https://github.com/user-attachments/assets/b9522cd1-6c9f-47df-a0b4-d6a3f6e21ecc" />
+
 
 
